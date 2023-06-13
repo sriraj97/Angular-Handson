@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angularproject1';
+  // imagePath="/assets/images/img1.png"
+  // img = this.imagePath;
+  
 }
+
